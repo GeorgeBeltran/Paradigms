@@ -1,0 +1,1 @@
+factorial a = product [1..a]
